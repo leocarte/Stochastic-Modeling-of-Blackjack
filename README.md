@@ -1,4 +1,4 @@
-# Stochastic-Modeling-of-Blackjack
+# Stochastic Modeling of Blackjack
 
 Blackjack is one of the most analyzed casino games due to its mix of chance
 and strategy. This work develops a comprehensive mathematical model of blackjack
