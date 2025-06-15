@@ -9,7 +9,7 @@ setup_variables()
 
 # %%% COMPUTATIONS — BASIC STRATEGY %%%
 
-strategy, _ = set_strategy('basic')
+strategy = set_strategy('basic')
 
 deck = np.array([1, 1, 1, 1, 1, 1, 1, 1, 1, 4], dtype=float) / 13
 
